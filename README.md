@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Harinand u can call me Hari
+- 👀 I’m interested in python programming
+- 🌱 I’m currently learning BE computer science
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me harinandj73@gmail.com
